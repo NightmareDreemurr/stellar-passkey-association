@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stellar.maitools",
+      "sha256_cert_fingerprints": [
+        "33:0B:7E:4F:4C:60:B4:07:DB:D6:E2:4C:A2:BA:4D:D7:3E:04:C1:67:C3:CD:2B:5B:AC:D8:AD:BD:3E:F4:DA:DE"
+      ]
+    }
+  }
+]
